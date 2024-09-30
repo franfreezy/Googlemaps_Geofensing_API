@@ -1,0 +1,1 @@
+This is a project to help embedded systems engineers easily interface geofensing capabilities into their projects
